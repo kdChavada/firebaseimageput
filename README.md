@@ -1,16 +1,23 @@
 # firebaseimageput
 
-A new Flutter application.
+This Project is Firebase Storage Image Upload 
 
-## Getting Started
+Step 1: Create A Flutter Project 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 2: Added  Flutter pubspec.yaml  package 
+firebase_storage: ^8.0.0
+  image_picker: ^0.7.3
+  firebase_core: ^1.0.1
+  permission_handler: ^6.1.1
+  
+  
+  step : 3  crate Firebase Account 
+  and Crate A Storage or   Update A  Image File Upload  Storage  Read And Write   In   Firebase Console Web
+  
+  
+  step :  4  inilization   Main.dart   firebase Application 
+  
+  step : 5    Android main fest file Permission gallery  or Camera and internet Permission 
+  
+  
+  step :  6 complete The Project   In Firebase Image Upload
