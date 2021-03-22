@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "751846119433",
+    "project_id": "fir-imageput",
+    "storage_bucket": "fir-imageput.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751846119433:android:fe2cfa50037b9605dd80d8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseimageput"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751846119433-p9jn95crmh4chfgcfja2padc3sbf5t5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseimageput",
+            "certificate_hash": "4b81975bddc54e0f741b3d166bbb77b2f11f0426"
+          }
+        },
+        {
+          "client_id": "751846119433-etcmppmotkr2tsinfn6f9ukqd1v3c4el.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60A3XMfUIPw_Q6Z9X0mjdAnFcgI-yTOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751846119433-etcmppmotkr2tsinfn6f9ukqd1v3c4el.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
